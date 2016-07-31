@@ -17,4 +17,10 @@ public class BillPay {
 		
 	}
 
+	@Test
+	public void changing(){
+		
+		System.out.println("changes made");
+		
+	}
 }
