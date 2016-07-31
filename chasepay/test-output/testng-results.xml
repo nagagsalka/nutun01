@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45" started-at="2016-07-31T16:01:06Z" finished-at="2016-07-31T16:01:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45" started-at="2016-07-31T16:01:06Z" finished-at="2016-07-31T16:01:06Z">
+      <class name="com.chasepay.BillPay">
+        <test-method status="PASS" signature="testBill()[pri:0, instance:com.chasepay.BillPay@76ae34]" name="testBill" duration-ms="15" started-at="2016-07-31T12:01:06Z" finished-at="2016-07-31T12:01:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBill -->
+      </class> <!-- com.chasepay.BillPay -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
