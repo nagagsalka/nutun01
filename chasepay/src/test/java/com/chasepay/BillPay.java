@@ -10,5 +10,11 @@ public class BillPay {
 		System.out.println("paying all my bills");
 		
 	}
+	@Test
+	public void testPayBills(){
+		
+		System.out.println("second test");
+		
+	}
 
 }
